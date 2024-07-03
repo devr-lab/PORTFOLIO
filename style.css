@@ -1,0 +1,8 @@
+*{
+	margin:0;
+
+}
+div.bg{
+	background-image:radial-gradiant(white,blue);
+	color: blue;
+}
